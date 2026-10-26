@@ -1,4 +1,4 @@
-# Colton Mabery
+# Colton Lloyd Mabery
 
 **Agentic engineer.** I build the infrastructure that makes AI coding agents dependable: harnesses, verification gates, review workflows, and evidence systems that hold an agent's claims to what it can actually show.
 
