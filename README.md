@@ -9,11 +9,8 @@ My working rule: no claim without a check that would catch it being wrong.
 | Project | What it is |
 |---|---|
 | [agent-harness](https://github.com/CMABERY/agent-harness) | Autonomous coding-agent harness in standard-library Python. Verification gate, prompt-injection delimiting, a fail-closed command policy, deterministic compaction. 257 offline tests, `mypy --strict`. |
-| [labgate](https://github.com/CMABERY/labgate) | Keeps a project's progression out of its product. Plans, probes and notes live in a sibling lab repo, and `main` receives only gated squash promotions made by a fresh session. |
-| [steady](https://github.com/CMABERY/steady) | Engineering-discipline skills for Claude Code, Codex and Pi: verify before claiming, root cause before fixing, review without performance. |
 | [4GARTHA](https://github.com/CMABERY/4GARTHA) | Content-addressed evidence and provenance ledger. Every assurance claim names its adversary, its verification procedure and its conformance test. |
 | [context-engine](https://github.com/CMABERY/context-engine) | Governed context engine that compiles source-linked, role-specific context packs for agents from an untrusted document corpus. |
-| [XMD-Prompt-Architect](https://github.com/CMABERY/XMD-Prompt-Architect) | Prompt-engineering toolkit for building, testing and hardening prompts and agent specs, with an eval suite and injection-safety rules. |
 
 ## Focus areas
 
